@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ktorchat"
 include ':app'
-include ':ktor-chat'
